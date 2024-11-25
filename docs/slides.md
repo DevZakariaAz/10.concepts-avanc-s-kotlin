@@ -1,21 +1,24 @@
-## **Concepts Avancés Kotlin**
+## Presentation :
 
-- Presented by: Azizi Zakaria
-- Framed by: ESSARRAJ Fouad
+> `_Advenced Concepts in Kotlin_`
 
----
+##### by : _Zakaria Azizi_
+
+##### Framed by : _Fouad Essarraj_
+
+|||
 
 ### **1. Introduction**
 
----
+|||
 
 ### **2. 2TUP Methodology:**
-
----
+![2TUP](image.png)
+|||
 
 ### **3. Planning:**
 
-<table style="font-size: 42px" >
+<table style="font-size: 22px" >
   <tr>
     <th></th>
     <th>1</th>
@@ -54,30 +57,30 @@
   </tr>
 </table>
 
----
+|||
 
 ### **4. Need:**
 
----
+|||
 
 ### **5. Use Case Diagram:**
 
----
+|||
 
 ### **6. Technical analysis:**
 
----
+|||
 
 ### **7. Generic design::**
 
----
+|||
 
 ### **8. Class Diagram:**
 
----
+|||
 
 ### **9. Realisation:**
 
----
+|||
 
 ### **10. Conclusion:**
